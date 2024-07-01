@@ -1,2 +1,2 @@
 # Novel-Slider-Effect
-![Home Page]("/image/Thumbnail.png")
+![Home_Page](image/Thumbnail.png)
